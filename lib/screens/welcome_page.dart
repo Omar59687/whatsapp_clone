@@ -11,7 +11,7 @@ class WelcomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Coloors.backgroundDark,
+      //backgroundColor: Coloors.backgroundDark,
       body: Column(
         children: [
           Expanded(
